@@ -1,3 +1,4 @@
+//"for your information -> FYI"
 function getURLSlug(words) {
 	return words
 	.replace(/\s+/g,'-')
