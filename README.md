@@ -9,6 +9,6 @@ getRandomElement([1,2,3])
 ```
 
 ```
-getRandomNumber(1,10);
+getUrlSlug('My Favorite Song');
 //=>4
 ```
